@@ -3,7 +3,7 @@ import React from 'react'
 function test_new_branch() {
   return (
     <div>
-      test_new_branch
+      test_new_branch de git pull
     </div>
   )
 }
